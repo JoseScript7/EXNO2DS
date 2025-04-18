@@ -1,4 +1,6 @@
 # EXNO2DS
+      Name:A.Ranen Joseph Solomon
+      Register Number: 212224040269
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
